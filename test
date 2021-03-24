@@ -1,0 +1,1 @@
+python3 testing_script.py --client_name Automate --host ws://c4f2-students-3.us-east-2.elasticbeanstalk.com/ --password 5692839468
